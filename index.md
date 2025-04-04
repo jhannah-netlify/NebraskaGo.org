@@ -163,3 +163,6 @@ Go, written in different East Asian languages and scripts where Go is very popul
 * 바둑 Korean: Baduk
 * 圍棋 Traditional Chinese: Wéiqí
 
+Problems with / additions for this website?
+Open a [GitHub issue](https://github.com/jhannah-netlify/NebraskaGo.org/issues).
+
