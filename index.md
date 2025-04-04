@@ -26,7 +26,8 @@ leading to better communities.
 
 Go is an ancient easy-to-learn strategy game.  It is played with black and
 white stones on a grid.
-**Simple rules** can be learned in a few minutes, even by children as young as four. 
+**Simple rules** can be [learned in a few minutes](https://www.youtube.com/watch?v=lP63zfY-FM0&ab_channel=WorldGoChannel),
+even by children as young as four. 
 **Handicapping system** allows children to play with adults
 and beginners to play with experts.
  
