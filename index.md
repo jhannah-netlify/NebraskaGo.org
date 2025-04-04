@@ -1,4 +1,4 @@
-% Nebraska GO Advisory Council<br/>囲碁 围棋 바둑 圍棋
+% Nebraska GO Advisory Council<br/>囲碁 · 围棋 · 바둑 · 圍棋
 
 <div style="text-align:center">
 ![](omaha.jpg)
@@ -152,3 +152,13 @@ club.  Lastly, if you don’t start a Go club, then, by all means, please start 
 Chess club.
 
 Jim Story
+
+---
+
+Go, written in different East Asian languages and scripts where Go is very popular:
+
+* 囲碁 Japanese: Igo
+* 围棋 Simplified Chinese: Wéiqí
+* 바둑 Korean: Baduk
+* 圍棋 Traditional Chinese: Wéiqí
+
