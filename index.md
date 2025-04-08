@@ -7,7 +7,7 @@
 Where to play Go in Nebraska:
 
 * **Omaha**
-  * Join us [every Wednesday and Saturday](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
+  * Join us [every Wed, Sat; and every other Mon](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
   * Join [our Discord](https://discord.gg/GksZKSvhxy) to chat with us!
   * Jim Story, (901) 508-1266, [email](mailto:jm9st9@gmail.com)
 * **Lincoln**
