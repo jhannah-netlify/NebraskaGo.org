@@ -1,4 +1,4 @@
-% Nebraska GO Advisory Council<br/>囲碁 · 围棋 · 바둑 · 圍棋
+% Nebraska GO Advisory Council
 
 <div style="text-align:center">
 ![](omaha.jpg)
