@@ -4,30 +4,29 @@
 ![](omaha.jpg)
 </div>
 
+## GO – It’s more than a game.  It’s a game-changer.
+
+We promote Go, not only because it’s fun to play,
+but because it creates better students and better citizens,
+leading to better communities.
+
+*“When I was young... I wanted to be the world's best Go player”*<br/>
+--Bill Gates Speaks: Insights from the World's Most Successful Entrepreneur, p. 227.
+
 Where to play Go in Nebraska:
 
-* **Omaha**
+* **Omaha and Bellevue**
   * Join us [every Wed, Sat; and every other Mon](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
   * Join [our Discord](https://discord.gg/GksZKSvhxy) to chat with us!
   * Jim Story, (901) 508-1266, [email](mailto:jm9st9@gmail.com)
 * **Lincoln**
+  * Join us [every Sunday](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
   * Isaac Remboldt, (785) 424-3066, [email](mailto:isaacremboldt@gmail.com)
  
 ## What is Go?
-
-GO – It’s more than a game.  It’s a game-changer.
-
-We promote Go, not only because it’s fun to play,
-but because it creates better students and better citizens,
-leading to better communities. 
- 
-*“When I was young... I wanted to be the world's best Go player”*<br/>
---Bill Gates Speaks: Insights from the World's Most Successful Entrepreneur, p. 227.
-
-Go is an ancient easy-to-learn strategy game.  It is played with black and
-white stones on a grid.
+GO is an ancient, easy-to-learn, strategy game.  It is played by placing black and white stones on a grid.  The goal is to surround more territory than your opponent.  
 **Simple rules** can be [learned in a few minutes](https://www.youtube.com/watch?v=lP63zfY-FM0&ab_channel=WorldGoChannel),
-even by children as young as four. 
+even by five-year-olds. 
 **Handicapping system** allows children to play with adults
 and beginners to play with experts.
  
