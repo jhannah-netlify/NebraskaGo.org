@@ -18,7 +18,7 @@ Where to play Go in Nebraska:
 * **Omaha and Bellevue**
   * Join us [every Wed, Sat; and every other Mon](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
   * Join [our Discord](https://discord.gg/GksZKSvhxy) to chat with us!
-  * Jim Story, (901) 508-1266, [email](mailto:jm9st9@gmail.com)
+  * Jim Story, (402) 672-9075, [email](mailto:jm9st9@gmail.com)
 * **Lincoln**
   * Join us [every Sunday](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
   * Isaac Remboldt, (785) 424-3066, [email](mailto:isaacremboldt@gmail.com)
@@ -102,7 +102,7 @@ For more info:
 
 Nebraska GO Advisory Council, Jim Story, Chairperson,<br/>
 15226 Wycliffe Dr, Suite 36, Omaha, NE  68154<br/>
-(901) 508-1266, [jm9st9@gmail.com](mailto:jm9st9@gmail.com)
+(402) 672-9075, [jm9st9@gmail.com](mailto:jm9st9@gmail.com)
  
 ## Go vs Chess – which is better?
 
