@@ -1,4 +1,4 @@
-% Nebraska GO Advisory Council
+% Nebraska GO Advisory Council<br/>囲碁 · 围棋 · 바둑 · 圍棋
 
 <div style="text-align:center">
 ![](omaha.jpg)
@@ -18,7 +18,7 @@ Where to play Go in Nebraska:
 * **Omaha and Bellevue**
   * Join us [every Wed, Sat; and every other Mon](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
   * Join [our Discord](https://discord.gg/GksZKSvhxy) to chat with us!
-  * Jim Story, (402) 672-9075, [email](mailto:jm9st9@gmail.com)
+  * Jim Story, (402) 672-9075, [email](mailto:jm9st96@gmail.com)
 * **Lincoln**
   * Join us [every Sunday](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)!
   * Isaac Remboldt, (785) 424-3066, [email](mailto:isaacremboldt@gmail.com)
@@ -73,7 +73,7 @@ limited to, the American Go Foundation ([www.agfGo.org](https://www.agfGo.org)).
 We are not interested
 in duplicating other organizations’ efforts, but in complementing and enhancing
 them.  Please note that we are always looking for new NGAC members.  Ask for an
-application form ([jm9st9@gmail.com](mailto:jm9st9@gmail.com)).
+application form ([jm9st96@gmail.com](mailto:jm9st96@gmail.com)).
 
 <div style="text-align:center">
 ![](agf.jpg)
@@ -102,7 +102,7 @@ For more info:
 
 Nebraska GO Advisory Council, Jim Story, Chairperson,<br/>
 15226 Wycliffe Dr, Suite 36, Omaha, NE  68154<br/>
-(402) 672-9075, [jm9st9@gmail.com](mailto:jm9st9@gmail.com)
+(402) 672-9075, [jm9st96@gmail.com](mailto:jm9st96@gmail.com)
  
 ## Go vs Chess – which is better?
 
