@@ -33,7 +33,11 @@ It is played by placing black and white stones on a grid.
  
 ## Mission Statement
 
-Because GO benefits both the individual and the community, the mission of the **Nebraska GO Advisory Council** is to promote the fun, fascinating, and educationally-beneficial game of GO in and near the state of Nebraska.  Hopefully, our existence and, moreover, our success will be an inspiration to GO promoters beyond Nebraska.
+Because GO benefits both the individual and the community, the mission of the
+**Nebraska GO Advisory Council** is to promote the fun, fascinating, and
+educationally-beneficial game of GO in and near the state of Nebraska.
+Hopefully, our existence and, moreover, our success will be an inspiration to
+GO promoters beyond Nebraska.
 
 ## THE EDUCATIONAL BENEFITS OF PLAYING GO
 
@@ -79,23 +83,35 @@ libraries, community centers, YMCAs, and colleges.
 and can, therefore, cease to exist, as the number of GO players and GO clubs
 will fulfill the mission of the **NGAC** on their own.
  
-**Cooperation** – To promote our vision, we look forward to working with other passionate, like-minded, individuals and organizations, including, but not limited to, the American Go Association (USGO.org) and the American Go Foundation (AGFGO.org).  We are not interested in duplicating other organizations’ efforts, but in complementing and enhancing their efforts, in order to promote GO in and around Nebraska.
+**Cooperation** – To promote our vision, we look forward to working with other
+passionate, like-minded, individuals and organizations, including, but not
+limited to, the American Go Association (USGO.org) and the American Go
+Foundation (AGFGO.org).  We are not interested in duplicating other
+organizations’ efforts, but in complementing and enhancing their efforts, in
+order to promote GO in and around Nebraska.
 
 <div style="text-align:center">
 ![](agf.jpg)
 </div>
 
-**FREE Go starter sets are available from the American Go Foundation (AGFGO.org/start-a-club)**
-for any K-12 school, library, YMCA, or community center.  Also, ask about their home-schooling program.
+**FREE Go starter sets are available from the American Go Foundation
+(AGFGO.org/start-a-club)** for any K-12 school, library, YMCA, or community
+center.  Also, ask about their home-schooling program.
 
-**FREE GO Presentations – We are available to do FREE one-hour GO presentations for your group**, which includes:
+**FREE GO Presentations – We are available to do FREE one-hour GO presentations
+for your group**, which includes:
 
 * A short history of GO
 * Fun facts about the game
 * The educational and community benefits of GO, and
 * Teaching participants to play GO.
 
-The presentation, itself, takes about 20 minutes, but can be shortened for younger audiences.  Teaching GO takes less than five minutes.  Participants should be allowed at least 20 minutes to play a game or two.  There is no charge for this service.  However, if you would like to make a small donation to cover milage, that would be greatly appreciated, but is completely voluntary.
+The presentation, itself, takes about 20 minutes, but can be shortened for
+younger audiences.  Teaching GO takes less than five minutes.  Participants
+should be allowed at least 20 minutes to play a game or two.  There is no
+charge for this service.  However, if you would like to make a small donation
+to cover milage, that would be greatly appreciated, but is completely
+voluntary.
 
 <div style="text-align:center">
 ## Fun Facts about GO
@@ -120,7 +136,10 @@ Nebraska GO Advisory Council members
 * Stuart Shell, AIA, https://www.linkedin.com/in/stuartshell/
 * Jim Story, Council Chair, native Nebraskan, BA in Psychology and Sociology at UNL (1981), Teacher’s Endorsement, Hastings College, Hastings, NE (1987), 35-year career in Information Technology.
 
-**Please note that none of the council members make any money from GO.  Also, please note that we are always looking for new NGAC members** to help promote GO in and around Nebraska (even if you don’t know how to play GO).  Ask for an application form.
+**Please note that none of the council members make any money from GO.  Also,
+please note that we are always looking for new NGAC members** to help promote
+GO in and around Nebraska (even if you don’t know how to play GO).  Ask for an
+application form.
 
 For more info, contact: **Jim Story**, Council Chair, **jm9st96@gmail.com, (402) 672-9075**.
 
@@ -144,8 +163,14 @@ For other GO clubs and GO players in the USA, check out:
 by Jim Story (imho)
 </div>
 
-Both GO and Chess are great mentally-challenging games.  Obviously, each games’ enthusiasts will have their own strong opinions about which game is better and why.  I, personally, have played both games seriously for decades.  For example, I’ve played in both GO and Chess tournaments, I have been the organizer of the Omaha GO Club since 2011, and, in 1994, I was the President of the Memphis, TN, Chess Club.  Both are good games.
-**However, if you must choose between starting a GO club OR a starting a Chess club, might I suggest a GO club, for the following reasons:**
+Both GO and Chess are great mentally-challenging games.  Obviously, each games’
+enthusiasts will have their own strong opinions about which game is better and
+why.  I, personally, have played both games seriously for decades.  For
+example, I’ve played in both GO and Chess tournaments, I have been the
+organizer of the Omaha GO Club since 2011, and, in 1994, I was the President of
+the Memphis, TN, Chess Club.  Both are good games.  **However, if you must
+choose between starting a GO club OR a starting a Chess club, might I suggest a
+GO club, for the following reasons:**
 
 * GO is FREE – you can get FREE GO starter sets for your K-12 school, library, YMCA, or community center GO clubs from the AMERICAN GO FOUNDATION (www.AGFGO.org).
 
@@ -164,7 +189,10 @@ In Capture GO, you only need keep track of how many stones you have captured whi
 
 * Eventual greater complexity – GO can be played on boards of different sizes.  The larger the board, the longer the game takes and the more complex is the interaction between the different battles on the board.  This is what makes it both exciting and challenging.  A simplified analogy would be, “If Chess is a battle, then GO is a war with multiple battles that interact with each other”.  On the large GO board (a grid of 19 x 19, which is five times the size of a Chess board), GO strategy is estimated to be four times as complex as Chess.  You can play a quick game of GO on a small board (e.g., on a 9 x 9) in ten minutes.  But as GO players advance in skill, they like to play on larger boards, which makes for a more complex and, therefore, more challenging, and exciting game.
 
-In conclusion, hopefully, you can start both GO and Chess clubs at your school, library, community center, or YMCA.  However, if you can only start one, I strongly suggest starting a GO club for the reasons listed above.  Lastly, if you can’t start a GO club, then, by all means, please start a Chess club. 
+In conclusion, hopefully, you can start both GO and Chess clubs at your school,
+library, community center, or YMCA.  However, if you can only start one, I
+strongly suggest starting a GO club for the reasons listed above.  Lastly, if
+you can’t start a GO club, then, by all means, please start a Chess club. 
 
 Sincerely, Jim
 
@@ -172,19 +200,52 @@ Sincerely, Jim
 ## The Rules of Go
 </div>
 
-The written rules are below.  You can also watch a YouTube video to learn the rules.  For free, kid-safe, beginner GO videos, go to:  https://www.youtube.com/@WorldGoChannel – start with the playlist “Lessons in Logical Sequence”.  The first video teaches the rules of GO (five minutes).  The second video is a sample game with explanations (20 minutes).  There are over 100 five-minute GO videos on this YouTube channel designed specifically for beginners.
+The written rules are below.  You can also watch a YouTube video to learn the
+rules.  For free, kid-safe, beginner GO videos, go to:
+https://www.youtube.com/@WorldGoChannel – start with the playlist “Lessons in
+Logical Sequence”.  The first video teaches the rules of GO (five minutes).
+The second video is a sample game with explanations (20 minutes).  There are
+over 100 five-minute GO videos on this YouTube channel designed specifically
+for beginners.
+
 The Rules of “CAPTURE GO”
-As stated above, regular GO counts territory and captures to determine the winner at the END of the game.  In CAPTURE GO, however, the winner is determined DURING the game.  All of the “regular” GO rules apply with the following exceptions:
-Because playing first is a huge advantage, White receives a compensation (komi) of five captured stones at the beginning of the game.  These are placed in White’s “prison pile”, which can be the lid of the GO bowls or just placed on White’s side of the board.
+
+As stated above, regular GO counts territory and captures to determine the
+winner at the END of the game.  In CAPTURE GO, however, the winner is
+determined DURING the game.  All of the “regular” GO rules apply with the
+following exceptions: Because playing first is a huge advantage, White receives
+a compensation (komi) of five captured stones at the beginning of the game.
+These are placed in White’s “prison pile”, which can be the lid of the GO bowls
+or just placed on White’s side of the board.
 The winner is determined during the game by whichever player captures 30 stones first (on a 9x9 board).  It is strongly suggested that beginners play many games on a 9x9 before progressing to larger boards.
 Players MUST place a stone on the board, when it is their turn.
-This last rule leads to players either filling in their own territory, or placing stones into their opponent’s territory where they can be captured.  Consequently, whoever has surrounded the most territory will also win the game in both “regular” GO and Capture GO.
+This last rule leads to players either filling in their own territory, or
+placing stones into their opponent’s territory where they can be captured.
+Consequently, whoever has surrounded the most territory will also win the game
+in both “regular” GO and Capture GO.
 
-**Starting position for beginners** – When players first starting playing GO, they should start on a 9x9 board by placing stones as shown in the following diagram with Black to move first.  Also, they should play Capture GO and, initially, play until a player has captured just ONE stone.  By starting in the following position and only playing until a player has captured just ONE stone, both players immediately start to learn how to attack and defend.  Later, they can abandon this pre-determined placement of stones and start with an empty board and, as stated above, White will start with five captured stones in compensation for Black being able to move first.
+**Starting position for beginners** – When players first starting playing GO,
+they should start on a 9x9 board by placing stones as shown in the following
+diagram with Black to move first.  Also, they should play Capture GO and,
+initially, play until a player has captured just ONE stone.  By starting in the
+following position and only playing until a player has captured just ONE stone,
+both players immediately start to learn how to attack and defend.  Later, they
+can abandon this pre-determined placement of stones and start with an empty
+board and, as stated above, White will start with five captured stones in
+compensation for Black being able to move first.
 
 ![](image4.png)
 
-Handicap stones – When playing against beginners, it is best to give them some handicap stones at the start of the game in order to even out the game and give them a fighting chance.  So, in addition to starting in the above position, 1 to 4 handicap stones can be added on the 3-3 points, as shown below.  Also, I like to help a beginner win the first few games.  As they win more games and gain competence, handicap stones can be removed one at a time.  A rule we use is:  If a player wins three games in a row against the same opponent, then, they need one less handicap stone to start the game or their opponent needs one more handicap stone.  In Capture GO, Black always plays first, regardless of whether they receive handicap stones or not.
+Handicap stones – When playing against beginners, it is best to give them some
+handicap stones at the start of the game in order to even out the game and give
+them a fighting chance.  So, in addition to starting in the above position, 1
+to 4 handicap stones can be added on the 3-3 points, as shown below.  Also, I
+like to help a beginner win the first few games.  As they win more games and
+gain competence, handicap stones can be removed one at a time.  A rule we use
+is:  If a player wins three games in a row against the same opponent, then,
+they need one less handicap stone to start the game or their opponent needs one
+more handicap stone.  In Capture GO, Black always plays first, regardless of
+whether they receive handicap stones or not.
 
 ![](image5.png)
 
