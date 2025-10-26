@@ -117,24 +117,31 @@ voluntary.
 ## Fun Facts about GO
 </div>
 
-* In Japan, Korea, and China, there are **24-hour cable TV stations** just for this game.
+* In Japan, Korea, and China, there are **24-hour cable TV stations**
+just for this game.
 * Professional GO players can make over **$1 million per year, just playing GO**.
-* Until 2024, at Myongji University in South Korea, you could receive not only a **college degree**
-  just in GO, but, also, a PhD!
+* Until 2024, at Myongji University in South Korea, you could receive
+not only a **college degree** just in GO, but, also, a PhD!
 * Until 2016, GO was the **last game at which humans could still beat computers**.
-* In the first 30 pages of his book, “On China”, Dr. Henry Kissinger (Secretary of State under President Nixon) **devotes four pages** just to the game of GO.  He believes you need to understand this game to understand how people think in that part of the world.
+* In the first 30 pages of his book, “On China”, Dr. Henry Kissinger
+(Secretary of State under President Nixon) **devotes four pages** just to
+the game of GO.  He believes you need to understand this game to understand
+how people think in that part of the world.
 * A GO club exists at the US Military Academy at West Point, NY.
-* There are many female GO professionals.  The only native-born American female GO professional is Janice Kim (b. 1969 in Illinois).  She is also known as “Poker Zombie”.
+* There are many female GO professionals.  The only native-born American
+female GO professional is Janice Kim (b. 1969 in Illinois).  She is also
+known as “Poker Zombie”.
 
 **Nebraska GO Advisory Council members**
 
-* Anthony Banks, https://www.linkedin.com/in/anthonybanks/
+* Anthony Banks, [LinkedIn](https://www.linkedin.com/in/anthonybanks/)
 * Raleigh Barrett, GO Enthusiast.
-* Olivia Bickmore, Teacher, Boyd Elementary School, Omaha, NE, https://www.linkedin.com/in/olivia-bickmore-7685b5196/
-* Dr. Linda Cook, native Nebraskan, https://www.linkedin.com/in/linda-k-cook-ph-d-4689011/
-* Levi Hagen, native Nebraskan, https://www.linkedin.com/in/levihagen/
-* Stuart Shell, AIA, https://www.linkedin.com/in/stuartshell/
-* Jim Story, Council Chair, native Nebraskan, BA in Psychology and Sociology at UNL (1981), Teacher’s Endorsement, Hastings College, Hastings, NE (1987), 35-year career in Information Technology.
+* Olivia Bickmore, Teacher, Boyd Elementary School, Omaha, NE, [LinkedIn](https://www.linkedin.com/in/olivia-bickmore-7685b5196/)
+* Dr. Linda Cook, native Nebraskan, [LinkedIn](https://www.linkedin.com/in/linda-k-cook-ph-d-4689011/)
+* Levi Hagen, native Nebraskan, [LinkedIn](https://www.linkedin.com/in/levihagen/)
+* Stuart Shell, AIA, [LinkedIn](https://www.linkedin.com/in/stuartshell/)
+* Jim Story, Council Chair, native Nebraskan, BA in Psychology and Sociology at UNL (1981),
+Teacher’s Endorsement, Hastings College, Hastings, NE (1987), 35-year career in Information Technology.
 
 **Please note that none of the council members make any money from GO.  Also,
 please note that we are always looking for new NGAC members** to help promote
