@@ -125,8 +125,8 @@ voluntary.
 * In the first 30 pages of his book, “On China”, Dr. Henry Kissinger (Secretary of State under President Nixon) **devotes four pages** just to the game of GO.  He believes you need to understand this game to understand how people think in that part of the world.
 * A GO club exists at the US Military Academy at West Point, NY.
 * There are many female GO professionals.  The only native-born American female GO professional is Janice Kim (b. 1969 in Illinois).  She is also known as “Poker Zombie”.
- 
-Nebraska GO Advisory Council members
+
+**Nebraska GO Advisory Council members**
 
 * Anthony Banks, https://www.linkedin.com/in/anthonybanks/
 * Raleigh Barrett, GO Enthusiast.
@@ -146,18 +146,23 @@ For more info, contact: **Jim Story**, Council Chair, **jm9st96@gmail.com, (402)
 <div style="text-align:center">
 ## Where to play GO in Nebraska
 </div>
-**Omaha and Bellevue GO Club meeting times and places** - https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/ -
+
+**Omaha and Bellevue GO Club meeting times and places**:
+[Meetup](https://www.meetup.com/omaha-go-igo-wei-qi-baduk-club/)
 
 **Omaha & Bellevue GO Clubs** – Jim Story, (402) 672-9075, jm9st96@gmail.com
 
 **Lincoln GO Club** – Levi Hagen, (402) 669-9844, or Isaac Remboldt, (785) 424-3066, isaacremboldt@gmail.com.
 
 For other GO clubs and GO players in the USA, check out:
-* **Baduk.club**, direct link:  http://www.baduk.club/
-* **USGO.org** (click on “Find a Club”), direct link:  https://www.usgo.org/content.aspx?page_id=225&club_id=454497&mt=None
+
+* [Baduk.club](http://www.baduk.club/)
+* [USGO.org Chapter Finder](https://www.usgo.org/content.aspx?page_id=225&club_id=454497&mt=None)
 
 
+<div style="text-align:center">
 ## GO vs Chess – which is better?
+</div>
 
 <div style="text-align:center">
 by Jim Story (imho)
@@ -172,22 +177,68 @@ the Memphis, TN, Chess Club.  Both are good games.  **However, if you must
 choose between starting a GO club OR a starting a Chess club, might I suggest a
 GO club, for the following reasons:**
 
-* GO is FREE – you can get FREE GO starter sets for your K-12 school, library, YMCA, or community center GO clubs from the AMERICAN GO FOUNDATION (www.AGFGO.org).
+* **GO is FREE** – you can get FREE GO starter sets for your K-12 school,
+library, YMCA, or community center GO clubs from the AMERICAN GO
+FOUNDATION (www.AGFGO.org).
 
-* GO uses more of the brain – fMRI (functional Magnetic Resonance Imaging) studies show that GO uses more of the brain than Chess.  It’s more of a whole-brain workout.
+* **GO uses more of the brain** – fMRI (functional Magnetic Resonance Imaging)
+studies show that GO uses more of the brain than Chess.  It’s more of a
+whole-brain workout.
 
-* Handicapping system – Unlike Chess, GO has a simple handicapping system that allows kids to play with adults and beginners to play with experts, without changing the “feel” or “flavor” of the game.  This allows a close exciting game in which both players have an equal chance of winning, whatever their skill levels.
+* **Handicapping system** – Unlike Chess, GO has a simple handicapping system
+that allows kids to play with adults and beginners to play with experts,
+without changing the “feel” or “flavor” of the game.  This allows a close
+exciting game in which both players have an equal chance of winning,
+whatever their skill levels.
 
-* GO is quicker and easier to learn - The rules of GO are simpler than the rules of Chess, so it’s quicker and easier to learn.  This is especially important for younger children.  For example, in GO, there is only one “piece”, the stone.  Stones are placed on the board one at a time and, once placed, are not moved.
-By comparison, in Chess, there are five pieces: king, queen, bishop, knight, and rook, plus the pawns.  All move differently.  And, there are many special rules, like castling, en passant capturing, pawn promotion, etc.  GO, by comparison, has only two easily-understandable special rules:  You cannot make a move that results in either (1) the capture of your own stones, or (2) a move that duplicates a previous position.  That’s it.  Very simply rules.
+* **GO is quicker and easier to learn** - The rules of GO are simpler than the
+rules of Chess, so it’s quicker and easier to learn.  This is especially
+important for younger children.  For example, in GO, there is only one
+“piece”, the stone.  Stones are placed on the board one at a time and,
+once placed, are not moved.
 
-* Capture GO (simplified GO) – In “regular” GO, victory is determined by how much territory each player has surrounded at the end of the game, plus the number of stones each player has captured.  As some beginners, especially younger children, have difficulty envisioning how much territory each player has surrounded with their stones as they are playing the game, there is a simplified version of GO called, “Capture GO” that eliminates this beginner difficulty.
+  By comparison, in Chess, there are five pieces: king, queen, bishop,
+knight, and rook, plus the pawns.  All move differently.  And, there
+are many special rules, like castling, en passant capturing, pawn
+promotion, etc.  GO, by comparison, has only two easily-understandable
+special rules:  You cannot make a move that results in either (1) the
+capture of your own stones, or (2) a move that duplicates a previous
+position.  That’s it.  Very simply rules.
 
-In Capture GO, you only need keep track of how many stones you have captured while playing.  And, the first player to a preset number of stones captured, 30 for example, wins.  This is not that different from “regular” GO, because the player who has surrounded more territory will be the first to capture 30 stones. So, both “regular” GO and Capture GO produce the same winner, the same result.  See the rules for both regular GO and Capture GO below.
+* **Capture GO (simplified GO)** – In “regular” GO, victory is determined by
+how much territory each player has surrounded at the end of the game, plus
+the number of stones each player has captured.  As some beginners, especially
+younger children, have difficulty envisioning how much territory each player
+has surrounded with their stones as they are playing the game, there is a
+simplified version of GO called, “Capture GO” that eliminates this beginner
+difficulty.
 
-* GO is ultimately more mentally challenging – Even as early as the 1990’s, computers could be programmed, using heuristics (“rules of thumb”) in combination with brute-force computing, to beat the best Chess player in the world.  However, not until 2016, with the invention of the artificial intelligence software known as AlphaGo, were computers able to defeat the world GO champion.  So, GO presents more of mental challenge to humans than does Chess.
+  In Capture GO, you only need keep track of how many stones you have captured
+while playing.  And, the first player to a preset number of stones captured,
+30 for example, wins.  This is not that different from “regular” GO, because
+the player who has surrounded more territory will be the first to capture 30
+stones. So, both “regular” GO and Capture GO produce the same winner, the
+same result.  **See the rules for both regular GO and Capture GO below.**
 
-* Eventual greater complexity – GO can be played on boards of different sizes.  The larger the board, the longer the game takes and the more complex is the interaction between the different battles on the board.  This is what makes it both exciting and challenging.  A simplified analogy would be, “If Chess is a battle, then GO is a war with multiple battles that interact with each other”.  On the large GO board (a grid of 19 x 19, which is five times the size of a Chess board), GO strategy is estimated to be four times as complex as Chess.  You can play a quick game of GO on a small board (e.g., on a 9 x 9) in ten minutes.  But as GO players advance in skill, they like to play on larger boards, which makes for a more complex and, therefore, more challenging, and exciting game.
+* **GO is ultimately more mentally challenging** – Even as early as the
+1990’s, computers could be programmed, using heuristics (“rules of thumb”)
+in combination with brute-force computing, to beat the best Chess player in
+the world.  However, not until 2016, with the invention of the artificial
+intelligence software known as AlphaGo, were computers able to defeat the
+world GO champion.  So, GO presents more of mental challenge to humans than
+does Chess.
+
+* **Eventual greater complexity** – GO can be played on boards of different
+sizes.  The larger the board, the longer the game takes and the more complex
+is the interaction between the different battles on the board.  This is what
+makes it both exciting and challenging.  A simplified analogy would be, “If
+Chess is a battle, then GO is a war with multiple battles that interact with
+each other”.  On the large GO board (a grid of 19 x 19, which is five times
+the size of a Chess board), GO strategy is estimated to be four times as
+complex as Chess.  You can play a quick game of GO on a small board (e.g.,
+on a 9 x 9) in ten minutes.  But as GO players advance in skill, they like
+to play on larger boards, which makes for a more complex and, therefore,
+more challenging, and exciting game.
 
 In conclusion, hopefully, you can start both GO and Chess clubs at your school,
 library, community center, or YMCA.  However, if you can only start one, I
@@ -202,23 +253,30 @@ Sincerely, Jim
 
 The written rules are below.  You can also watch a YouTube video to learn the
 rules.  For free, kid-safe, beginner GO videos, go to:
-https://www.youtube.com/@WorldGoChannel – start with the playlist “Lessons in
+[@WorldGoChannel](https://www.youtube.com/@WorldGoChannel) –
+start with the playlist “Lessons in
 Logical Sequence”.  The first video teaches the rules of GO (five minutes).
 The second video is a sample game with explanations (20 minutes).  There are
 over 100 five-minute GO videos on this YouTube channel designed specifically
 for beginners.
 
-The Rules of “CAPTURE GO”
+**The Rules of “CAPTURE GO”**
 
 As stated above, regular GO counts territory and captures to determine the
 winner at the END of the game.  In CAPTURE GO, however, the winner is
 determined DURING the game.  All of the “regular” GO rules apply with the
-following exceptions: Because playing first is a huge advantage, White receives
+following exceptions:
+
+* Because playing first is a huge advantage, White receives
 a compensation (komi) of five captured stones at the beginning of the game.
 These are placed in White’s “prison pile”, which can be the lid of the GO bowls
 or just placed on White’s side of the board.
-The winner is determined during the game by whichever player captures 30 stones first (on a 9x9 board).  It is strongly suggested that beginners play many games on a 9x9 before progressing to larger boards.
-Players MUST place a stone on the board, when it is their turn.
+
+* The winner is determined during the game by whichever player captures 30
+stones first (on a 9x9 board).  It is strongly suggested that beginners play
+many games on a 9x9 before progressing to larger boards.
+
+* Players MUST place a stone on the board, when it is their turn.
 This last rule leads to players either filling in their own territory, or
 placing stones into their opponent’s territory where they can be captured.
 Consequently, whoever has surrounded the most territory will also win the game
@@ -236,7 +294,7 @@ compensation for Black being able to move first.
 
 ![](image4.png)
 
-Handicap stones – When playing against beginners, it is best to give them some
+**Handicap stones** – When playing against beginners, it is best to give them some
 handicap stones at the start of the game in order to even out the game and give
 them a fighting chance.  So, in addition to starting in the above position, 1
 to 4 handicap stones can be added on the 3-3 points, as shown below.  Also, I
@@ -283,12 +341,12 @@ intersection. A single stone in the middle of an empty board has four liberties:
 vacant intersections above, below, left and right of the stone. The intersections diagonal
 to the stone are not adjacent and are not counted as liberties of the stone. A single
 stone on a side intersection has a maximum of three liberties; a single stone in the
-corner has a maximum of two liberties.
+corner has a maximum of two liberties.  
 Stones of the same color are said to be connected if they are adjacent along horizontal
 or vertical lines on the board (each occupies a liberty of the other). Two stones are part
 of the same string if they are linked by a chain of connected stones of the same color.
 The liberties of a string of stones are the liberties of all the individual stones in that
-string.
+string.  
 After a player moves, any stone or string of stones belonging to the opponent which is
 completely surrounded by the player's own stones, leaving no liberties, is captured, and
 removed from the board. Such stones become prisoners of the capturing player. It is
@@ -343,18 +401,21 @@ territory surrounded by [those stones] constitute that player's area.
 Neutral Points: Any empty points left on the board at the end of the game which are not
 completely surrounded by either player's stones are known as neutral points, and are
 not counted toward either player's territory or area.
-Counting by Territory: When counting by territory, players add up their total territory less
+
+**Counting by Territory:** When counting by territory, players add up their total territory less
 any prisoners held by the opponent (including dead stones removed at the end of the
 game). The player with the greater total (after adjusting for any compensation offered
 according to Rule 3) is the winner.
+
 (It is customary for the players to fill in their opponent's territory with their prisoners, and
 to then rearrange their territories to facilitate counting. These are merely mechanical
 conventions to simplify counting.)
-Counting by Area: When counting by area, the players add up their total area. Prisoners
+
+**Counting by Area:** When counting by area, the players add up their total area. Prisoners
 are ignored. The player with the greater total area (after adjusting for any compensation
 offered according to Rules 3 and 4) is the winner.
 
-
+---
 
 GO, written in different East Asian languages and scripts where GO is very popular:
 
